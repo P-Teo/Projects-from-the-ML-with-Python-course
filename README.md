@@ -50,22 +50,20 @@ This repository is organized into two main folders:
 
 ## 🚀 Projects
 
-### 1. **Machine Learning with Python Projects**  
-A collection of ML projects demonstrating regression, classification, and prediction tasks using scikit-learn, pandas, and NumPy.
 
-### 2. **Rock Paper Scissors**  
+### 1. **Rock Paper Scissors**  
 A simple game with an **AI agent**, demonstrating reinforcement learning techniques.
 
-### 3. **Cat and Dog Image Classifier**  
+### 2. **Cat and Dog Image Classifier**  
 Classify images of cats and dogs using **CNNs and transfer learning**. Includes preprocessing, training, and evaluation.
 
-### 4. **Book Recommendation Engine using KNN**  
+### 3. **Book Recommendation Engine using KNN**  
 A **content-based recommendation system** using **k-Nearest Neighbors (KNN)** to suggest books based on user preferences.
 
-### 5. **Linear Regression Health Costs Calculator**  
+### 4. **Linear Regression Health Costs Calculator**  
 Predict healthcare costs using **linear regression** on patient data (age, BMI, smoking, etc.).
 
-### 6. **Neural Network SMS Text Classifier**  
+### 5. **Neural Network SMS Text Classifier**  
 Classify SMS messages as spam or ham using a **neural network**, with text preprocessing and vectorization.
 
 ---
